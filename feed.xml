@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>The StarlightFox Blog</title>
+    <link href="https://kuramadscientist.github.io/StarlightFoxBlog/feed.xml" rel="self" />
+    <link href="https://kuramadscientist.github.io/StarlightFoxBlog" />
+    <updated>2023-05-17T21:04:50+02:00</updated>
+    <author>
+        <name>Kurama</name>
+    </author>
+    <id>https://kuramadscientist.github.io/StarlightFoxBlog</id>
+
+    <entry>
+        <title>Dawn of a new adventure.</title>
+        <author>
+            <name>Kurama</name>
+        </author>
+        <link href="https://kuramadscientist.github.io/StarlightFoxBlog/dawn-of-a-new-adventure/"/>
+        <id>https://kuramadscientist.github.io/StarlightFoxBlog/dawn-of-a-new-adventure/</id>
+
+        <updated>2023-05-17T21:04:50+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello! This is the first of hopefully many blog posts! :)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Hello!
+  </p>
+
+  <p>
+    This is the first of <i>hopefully </i>many blog posts!
+  </p>
+
+  <p>
+    :)
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

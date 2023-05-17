@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kuramadscientist.github.io/StarlightFoxBlog/sitemap.xml

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The StarlightFox Blog",
+    "description": "",
+    "home_page_url": "https://kuramadscientist.github.io/StarlightFoxBlog",
+    "feed_url": "https://kuramadscientist.github.io/StarlightFoxBlog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kurama"
+    },
+    "items": [
+        {
+            "id": "https://kuramadscientist.github.io/StarlightFoxBlog/dawn-of-a-new-adventure/",
+            "url": "https://kuramadscientist.github.io/StarlightFoxBlog/dawn-of-a-new-adventure/",
+            "title": "Dawn of a new adventure.",
+            "summary": "Hello! This is the first of hopefully many blog posts! :)",
+            "content_html": "\n  <p>\n    Hello!\n  </p>\n\n  <p>\n    This is the first of <i>hopefully </i>many blog posts!\n  </p>\n\n  <p>\n    :)\n  </p>",
+            "author": {
+                "name": "Kurama"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-17T21:04:50+02:00",
+            "date_modified": "2023-05-17T21:04:50+02:00"
+        }
+    ]
+}
