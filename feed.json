@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://kuramadscientist.github.io/StarlightFoxBlog/thank-you-rclubpenguin/",
+            "url": "https://kuramadscientist.github.io/StarlightFoxBlog/thank-you-rclubpenguin/",
+            "title": "Thank you r/ClubPenguin!",
+            "summary": "Just wanted to thank the r/ClubPenguin community on Reddit for being awesome! They participated in the survey I made to know more about player preferences and other stuff, and they have been super great and wholesome. A big thank you to the moderators for letting&hellip;",
+            "content_html": "<p>Just wanted to thank the r/ClubPenguin community on Reddit for being awesome!</p>\n<p>They participated in the survey I made to know more about player preferences and other stuff, and they have been super great and wholesome. A big thank you to the moderators for letting me share the project and blog too! :)</p>\n<p>I finished setting up the <a href=\"https://discord.gg/x5csasTw\" target=\"_blank\" rel=\"noopener noreferrer\">Discord server</a>, it doesn't have a logo yet but I will work on that ASAP, join it!</p>\n<p>I will probably share some little <em>secret </em>stuff like some locations/WIP designs etc...</p>\n<p>Until then, see you later! 🐈</p>",
+            "image": "https://kuramadscientist.github.io/StarlightFoxBlog/media/posts/2/brave_2wSgTOj9YE.png",
+            "author": {
+                "name": "Kurama"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-21T18:03:38+02:00",
+            "date_modified": "2023-05-21T18:04:27+02:00"
+        },
+        {
             "id": "https://kuramadscientist.github.io/StarlightFoxBlog/dawn-of-a-new-adventure/",
             "url": "https://kuramadscientist.github.io/StarlightFoxBlog/dawn-of-a-new-adventure/",
             "title": "Dawn of a new adventure.",
