@@ -3,7 +3,7 @@
     <title>The StarlightFox Blog</title>
     <link href="https://kuramadscientist.github.io/StarlightFoxBlog/feed.xml" rel="self" />
     <link href="https://kuramadscientist.github.io/StarlightFoxBlog" />
-    <updated>2023-05-17T21:04:50+02:00</updated>
+    <updated>2023-05-21T14:20:51+02:00</updated>
     <author>
         <name>Kurama</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://kuramadscientist.github.io/StarlightFoxBlog/dawn-of-a-new-adventure/"/>
         <id>https://kuramadscientist.github.io/StarlightFoxBlog/dawn-of-a-new-adventure/</id>
 
-        <updated>2023-05-17T21:04:50+02:00</updated>
+        <updated>2023-05-21T14:20:51+02:00</updated>
             <summary>
                 <![CDATA[
                     Hello! This is the first of hopefully many blog posts! :)
@@ -31,11 +31,7 @@
   </p>
 
   <p>
-    This is the first of <i>hopefully </i>many blog posts!
-  </p>
-
-  <p>
-    :)
+    This is the first of <i>hopefully </i>many blog posts! :)
   </p>
             ]]>
         </content>
