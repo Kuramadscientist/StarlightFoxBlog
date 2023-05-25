@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://kuramadscientist.github.io/StarlightFoxBlog/location-moonlit-meadow/",
+            "url": "https://kuramadscientist.github.io/StarlightFoxBlog/location-moonlit-meadow/",
+            "title": "Location: Moonlit Meadow",
+            "summary": "I shared one of the base locations on the Discord server, so why not share it here as well! Moonlit Meadow is a serene and grassy area that comes alive under the glow of the moon where shooting stars can often be seen. Cats can&hellip;",
+            "content_html": "<p>I shared one of the base locations on the Discord server, so why not share it here as well!</p>\n<blockquote>\n<p><strong>Moonlit Meadow</strong> is a serene and grassy area that comes alive under the glow of the moon where shooting stars can often be seen. Cats can take a walk in the meadow, play games, stargaze and unwind. At the center of the meadow, cats can find a campfire and sit around it to tell nighttime stories.</p>\n</blockquote>\n<p>What do you think? It's my personal favorite. :)</p>",
+            "author": {
+                "name": "Kurama"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-25T14:11:03+02:00",
+            "date_modified": "2023-05-25T14:11:03+02:00"
+        },
+        {
             "id": "https://kuramadscientist.github.io/StarlightFoxBlog/thank-you-rclubpenguin/",
             "url": "https://kuramadscientist.github.io/StarlightFoxBlog/thank-you-rclubpenguin/",
             "title": "Thank you r/ClubPenguin!",
