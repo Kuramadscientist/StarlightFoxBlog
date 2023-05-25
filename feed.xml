@@ -3,12 +3,35 @@
     <title>The StarlightFox Blog</title>
     <link href="https://kuramadscientist.github.io/StarlightFoxBlog/feed.xml" rel="self" />
     <link href="https://kuramadscientist.github.io/StarlightFoxBlog" />
-    <updated>2023-05-25T14:11:03+02:00</updated>
+    <updated>2023-05-25T20:54:10+02:00</updated>
     <author>
         <name>Kurama</name>
     </author>
     <id>https://kuramadscientist.github.io/StarlightFoxBlog</id>
 
+    <entry>
+        <title>The least important blog post</title>
+        <author>
+            <name>Kurama</name>
+        </author>
+        <link href="https://kuramadscientist.github.io/StarlightFoxBlog/the-least-important-blog-post/"/>
+        <id>https://kuramadscientist.github.io/StarlightFoxBlog/the-least-important-blog-post/</id>
+
+        <updated>2023-05-25T20:54:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello to whoever reads this! This post is for the sole purpose of seeing if it will get sent in the Discord server. It might be deleted soon Until then, see you later!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello to whoever reads this! This post is for the sole purpose of seeing if it will get sent in the Discord server.</p>
+<p><em>It might be deleted soon</em></p>
+<p> </p>
+<p>Until then, see you later!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Location: Moonlit Meadow</title>
         <author>
