@@ -3,12 +3,35 @@
     <title>The StarlightFox Blog</title>
     <link href="https://kuramadscientist.github.io/StarlightFoxBlog/feed.xml" rel="self" />
     <link href="https://kuramadscientist.github.io/StarlightFoxBlog" />
-    <updated>2023-05-25T14:11:03+02:00</updated>
+    <updated>2023-05-31T11:30:46+02:00</updated>
     <author>
         <name>Kurama</name>
     </author>
     <id>https://kuramadscientist.github.io/StarlightFoxBlog</id>
 
+    <entry>
+        <title>Location: Furball Plaza</title>
+        <author>
+            <name>Kurama</name>
+        </author>
+        <link href="https://kuramadscientist.github.io/StarlightFoxBlog/location-furball-plaza/"/>
+        <id>https://kuramadscientist.github.io/StarlightFoxBlog/location-furball-plaza/</id>
+
+        <updated>2023-05-31T11:30:46+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Furball Plaza is the central hub of the game, where cats can gather, socialize, and access shops and various activities. Key locations include the Catnip Café, Catwalk Boutique, and Art Studio. This is the main area/location of the game! Probably the busiest and most active.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p><strong>Furball Plaza</strong> is the central hub of the game, where cats can gather, socialize, and access shops and various activities. Key locations include the Catnip Café, Catwalk Boutique, and Art Studio.</p>
+</blockquote>
+<p>This is the main area/location of the game! Probably the busiest and most active. :)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Location: Moonlit Meadow</title>
         <author>

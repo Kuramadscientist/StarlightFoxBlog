@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://kuramadscientist.github.io/StarlightFoxBlog/location-furball-plaza/",
+            "url": "https://kuramadscientist.github.io/StarlightFoxBlog/location-furball-plaza/",
+            "title": "Location: Furball Plaza",
+            "summary": "Furball Plaza is the central hub of the game, where cats can gather, socialize, and access shops and various activities. Key locations include the Catnip Café, Catwalk Boutique, and Art Studio. This is the main area/location of the game! Probably the busiest and most active.",
+            "content_html": "<blockquote>\n<p><strong>Furball Plaza</strong> is the central hub of the game, where cats can gather, socialize, and access shops and various activities. Key locations include the Catnip Café, Catwalk Boutique, and Art Studio.</p>\n</blockquote>\n<p>This is the main area/location of the game! Probably the busiest and most active. :)</p>",
+            "author": {
+                "name": "Kurama"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-31T11:30:46+02:00",
+            "date_modified": "2023-05-31T11:30:46+02:00"
+        },
+        {
             "id": "https://kuramadscientist.github.io/StarlightFoxBlog/location-moonlit-meadow/",
             "url": "https://kuramadscientist.github.io/StarlightFoxBlog/location-moonlit-meadow/",
             "title": "Location: Moonlit Meadow",
